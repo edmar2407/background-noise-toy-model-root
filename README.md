@@ -24,7 +24,8 @@ Once set up, you must provide some data to the algorithm to start the fitting.
 - Génesis Mendoza
 - Carla Borja :V
 - Yisus
-
+- Truman
+- Edwin
 
 
 Licence: ![](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
