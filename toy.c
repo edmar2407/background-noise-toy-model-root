@@ -199,6 +199,11 @@ TList* cumulativeList(TList* hists){
 }
 
 void showHist(TList* histList){
+// Truman and Edwin Code
+// Input:
+//      List
+// Output:
+//      Plot
 // Function that take a TList with the histograms and show the plots on
 // the screen
     // Create a iterator
